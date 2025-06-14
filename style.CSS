@@ -1,4 +1,14 @@
-#page{
-    font-family: "Open Sans", sans-serif;
+body{
+    background-color: #F5F4F0;
 }
 
+#page{
+    width: 1120px;
+    margin: 88px 80px;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+img {
+    width: 100%;
+}
