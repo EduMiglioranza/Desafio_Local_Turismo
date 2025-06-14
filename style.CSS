@@ -1,5 +1,6 @@
 body{
     background-color: #F5F4F0;
+    box-sizing: border-box;
 }
 
 #page{
@@ -11,4 +12,13 @@ body{
 
 img {
     width: 100%;
+    border-radius: 28px;
+}
+
+.list_img{
+    height: 350px;
+}
+
+#heart{
+    width: 14px;
 }
