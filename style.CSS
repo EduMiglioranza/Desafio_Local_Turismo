@@ -1,7 +1,7 @@
 /* Structure */
 
 body{
-    background-color: #F5F4F0;
+    background: #F5F4F0;
     box-sizing: border-box;
 }
 
@@ -109,3 +109,7 @@ img {
 
 
 /* Footer */
+
+footer{
+    text-align:  center;
+}
