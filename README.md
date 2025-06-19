@@ -1,4 +1,4 @@
-<h1 align="center">Local de Turismo</h1>
+<h1 align="center">Local de Turísmo</h1>
 
 <p align="center">
 Programa feito no quadro do curso Full-Stack da Rocketseat. <br/>
